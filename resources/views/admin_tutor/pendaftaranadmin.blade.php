@@ -8,12 +8,6 @@
         </div>
     </header>
 
-    <div class="container mx-auto mt-4 flex justify-end px-4">
-        <a href="#" class="bg-green-600 hover:bg-green-700 text-white px-4 py-2 rounded text-sm shadow">
-            + Tambah Pendaftaran
-        </a>
-    </div>
-
     <div class="overflow-x-auto m-4">
         <div class="bg-white shadow-lg rounded-lg overflow-hidden">
             <table class="min-w-full table-auto border border-gray-300">
